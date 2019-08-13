@@ -6,7 +6,7 @@ Enjoy!
 
 ## Getting Started
 
-1. Clone this repo. 
+1. Clone this repo with `git clone https://github.com/codingforentrepreneurs/Notebooks.git`
 
 2. Create a virtual environment (either `pipenv`, `virtualenv`, or `venv`)
 
